@@ -1,17 +1,12 @@
 # Hi there, I'm Nikhil 👋
-I’m a Software Engineer at Cisco working on Intersight, where I design and build high-throughput, user-facing distributed systems, focusing on reliability, scalability, and accessibility.
+Software Engineer at Cisco, building distributed systems on [Intersight](https://intersight.com). I design and operate high-throughput event-driven pipelines processing 180M+ daily events and build Go microservices powering plugins that serve 400+ enterprise customers.
+
+Active contributor to [Kubernetes](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3ANikateen+) across CLI and API Machinery SIGs.
 
 ## 🧰 Tech Stack
-**Languages:** Go, Java, Python, TypeScript  
-**Backend:** Microservices, Kafka, gRPC, REST APIs  
-**Cloud & Infrastructure:** Kubernetes, Docker, Helm, CI/CD  
-**Frontend:** React, Next.js, Lit  
-**Observability:** Prometheus, Grafana, OpenSearch, Kibana
-
-## ♿ Accessibility & Inclusive Design
-I care about building software that is usable by everyone, particularly in complex, enterprise-facing products.
-- Designing UIs with accessibility in mind (keyboard navigation, contrast, semantic HTML)
-- Writing frontend code that works reliably with screen readers and assistive technologies
-- Treating accessibility as a core quality metric alongside performance and reliability
-- Believing accessible design leads to simpler, clearer, and more maintainable software
+**Languages:** Go (Golang), Python, Java, TypeScript, JavaScript (ES6+)  
+**Frameworks:** Kafka Streams, FastAPI, Flask, React, Next.js, gRPC, REST  
+**Infrastructure:** Docker, Kubernetes, Helm, CI/CD, GitHub Actions, Jenkins, Linux, Nginx, AWS, GCP  
+**Data:** MongoDB, PostgreSQL, Redis, Kafka, OpenSearch, RocksDB, Prometheus, Grafana, Kibana  
+**Architecture:** Distributed Systems, Event-Driven Architecture, Microservices, Git
 
